@@ -49,3 +49,7 @@ Copy `.env.example` to `.env.local` if you need future server-endpoints or keys.
 ## Deployment
 
 Deploy to Vercel from the repository root. The app is ready for static and serverless deployment.
+
+## Credits
+
+Built and designed by Vineet, with a focus on recruiter-friendly engineering intelligence and evidence-based candidate comparison.
